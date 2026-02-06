@@ -1,0 +1,1 @@
+po_id,po_line_id,product_id,supplier_id,store_id,order_date,expected_delivery_date,actual_delivery_date,quantity_ordered,quantity_received,unit_cost,po_status
