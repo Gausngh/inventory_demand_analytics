@@ -1,1 +1,4 @@
 store_id,store_name,region,city,store_type
+1,Store Hyderabad South,South,Hyderabad,Retail
+2,Store Bengaluru South,South,Bengaluru,Retail
+3,Warehouse Mumbai West,West,Mumbai,Warehouse

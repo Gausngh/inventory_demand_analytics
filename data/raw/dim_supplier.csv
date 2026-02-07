@@ -1,1 +1,4 @@
 supplier_id,supplier_name,lead_time_days,rating
+1,Supplier Alpha,5,4
+2,Supplier Beta,10,3
+3,Supplier Gamma,7,5

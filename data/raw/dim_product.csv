@@ -1,1 +1,6 @@
 product_id,product_name,category,sub_category,brand,unit_cost,unit_price,reorder_point,safety_stock
+1,Product A,Electronics,Mobile,BrandX,8000,9999,50,30
+2,Product B,Electronics,Laptop,BrandY,35000,39999,20,10
+3,Product C,Grocery,Snacks,BrandZ,10,15,200,100
+4,Product D,Grocery,Beverages,BrandZ,20,30,150,80
+5,Product E,Home,Kitchen,BrandW,200,299,60,30
